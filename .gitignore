@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Config files that contain keys
+config.py
+
+#TSV files
+.tsv
+
+#CSV files
+.csv
+
+#Resources directory
+Resources/
