@@ -13,7 +13,7 @@ Project Objectives:
 
 Data Source: The Movie Database API, IMDB data files, and GeomapAPI.
 
-Written Data Analysis - Dom DC
+Written Data Analysis
 
 1. Our team has retrieved, a total of 5325 movies from 2000-2023 that are available in Netflix, Stan and Amazon Prime Video. There are 2223 movies that are available in the streaming platforms are from 2015 to 2019 while there only 396 movies from the early Y2K era. It may be a strategy of streaming platforms to target audiences with preference "trending" movies within the decade.
 
