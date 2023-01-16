@@ -2,6 +2,22 @@
 ### Two Decades Of Movies: An analysis of movies available in Australia on Netflix, Stan and Amazon Prime.
 ----
 
+##Project Overview:
+
+This analysis was conducted to research:
+
+- which platform provides the best quality of film on average;
+
+- which genres have brought the most success over a 20 year period;
+
+- which platform's films have the most diverse range of countries of origin;
+
+- which platform hosts the most profitable films?
+
+Data was sourced from IMDb and TMDb.
+
+
+
 ## Project Objectives:
 
 1. Retrieve dataset for movies from 2000-2023 with information on their availability on three streaming platforms: Netflix, Amazon Prime Video and Stan.  
