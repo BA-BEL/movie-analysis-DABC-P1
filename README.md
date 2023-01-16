@@ -29,3 +29,27 @@ Using TMDb and IMDb, a dataset of movies released after 2000 was prepared. These
 	b. Distribution of genres, ratings and budget per group year(5 year increments). 
 	
 	c. Comparison of movies across three streaming platforms: audience rating, runtime, country proudction, etc.   
+
+----
+
+## Using the code:
+
+#### IMDb
+
+IMDb data can be downloaded from https://datasets.imdbws.com/
+
+- files were too large to upload to the repository
+
+- metadata for the datasets can be found on https://www.imdb.com/interfaces/
+
+
+#### TMDb API
+
+TMDb API requires an API key to make calls
+
+- sign up here: https://www.themoviedb.org/signup
+
+#### Geoapify
+
+This API also requires a key, which can be obtained by signing up at https://myprojects.geoapify.com/register
+
