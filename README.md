@@ -34,6 +34,10 @@ Using TMDb and IMDb, a dataset of movies released after 2000 was prepared. These
 
 ## Using the code:
 
+### All the required code can be found in submission-files/main.ipynb
+
+#### - It is organized into four major parts, 2 for data preparation and 2 for data analysis.
+
 #### IMDb
 
 IMDb data can be downloaded from https://datasets.imdbws.com/
