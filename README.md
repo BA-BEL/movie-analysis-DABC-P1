@@ -11,5 +11,7 @@
 3. Create at least 6-8 visualisation graphs for data analysis of the following:  
 
 	a. Overview of movies available from the source. 
+	
 	b. Distribution of genres, ratings and budget per group year(5 year increments). 
+	
 	c. Comparison of movies across three streaming platforms: audience rating, runtime, country proudction, etc.   
