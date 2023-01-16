@@ -20,9 +20,9 @@ Using TMDb and IMDb, a dataset of movies released after 2000 was prepared. These
 
 1. Retrieve dataset for movies from 2000-2023 with information on their availability on three streaming platforms: Netflix, Amazon Prime Video and Stan.  
 
-2. Perform data clean-up, filter and formatting for a standardised master file.  
+2. Perform data clean-up, filter and formatting for a standardised master dataset.  
 
-3. Create at least 6-8 visualisation graphs for data analysis of the following:  
+3. Create visualizations for data analysis of the following:  
 
 	a. Overview of movies available from the source. 
 	
