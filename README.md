@@ -14,9 +14,7 @@ This analysis was conducted to research:
 
 - which platform hosts the most profitable films?
 
-Data was sourced from IMDb and TMDb.
-
-
+Using TMDb and IMDb, a dataset of movies released after 2000 was prepared. These movies were specified to be on Netflix, Stan, and Amazon Prime.
 
 ## Project Objectives:
 
