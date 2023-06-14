@@ -51,11 +51,6 @@ TMDb API requires an API key to make calls
 
 - sign up here: https://www.themoviedb.org/signup
 
-# IMPORTANT API_KEY used for the tmDB Dataset #
-Use the following in the code wherever "api_key" is used in filter_params:
-
-api_key = "1058f1538710de09e2cc162ffc042010"
-
 
 #### Geoapify
 
